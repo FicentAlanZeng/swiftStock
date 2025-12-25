@@ -173,13 +173,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZpCH7dtJ634jhMdpEvBQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="LMBus 付运管理系统" vertex="1">
-          <mxGeometry height="50" width="670" x="40" y="250" as="geometry" />
+          <mxGeometry height="50" width="1190" x="40" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ZpCH7dtJ634jhMdpEvBQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="公众号端" vertex="1">
-          <mxGeometry height="50" width="180" x="750" y="250" as="geometry" />
+          <mxGeometry height="50" width="210" x="1290" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ZpCH7dtJ634jhMdpEvBQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="飞书端" vertex="1">
-          <mxGeometry height="50" width="180" x="1026" y="250" as="geometry" />
+          <mxGeometry height="50" width="180" x="1566" y="250" as="geometry" />
         </mxCell>
         <mxCell id="ZpCH7dtJ634jhMdpEvBQ-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="服&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;商&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;" vertex="1">
           <mxGeometry height="250" width="50" x="40" y="330" as="geometry" />
@@ -222,6 +222,27 @@
         </mxCell>
         <mxCell id="ZpCH7dtJ634jhMdpEvBQ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="抱&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;车&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;提&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;成&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" vertex="1">
           <mxGeometry height="250" width="50" x="1091" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="大&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;屏&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1180" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="送&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;货&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;司&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;机&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1290" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="查&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;看&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;运&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1370" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="回&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;签&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;上&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;传&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1450" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="付&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;运&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;安&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;排&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1566" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="回&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;单&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;签&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;收&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1640" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZpCH7dtJ634jhMdpEvBQ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" value="PAD&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;抱&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;车&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;任&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;领&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;取&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="50" x="1710" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
