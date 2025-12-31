@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eHVDwjv78xXZlASCejH3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="1030" y="950" as="geometry" />
+        <mxCell id="eHVDwjv78xXZlASCejH3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="车辆登记动作，同公众号的送货司机预约登记" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="850" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-2" edge="1" parent="1" source="eHVDwjv78xXZlASCejH3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZGGLTTGvy-WiqVXzTEE3-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -184,11 +184,17 @@
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="付运管理" vertex="1">
           <mxGeometry height="60" width="120" x="590" y="850" as="geometry" />
         </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-17" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eHVDwjv78xXZlASCejH3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆登记" vertex="1">
           <mxGeometry height="60" width="120" x="790" y="850" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆实时监控管理" vertex="1">
           <mxGeometry height="60" width="120" x="790" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-19" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-18" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-32" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆定位" vertex="1">
           <mxGeometry height="60" width="120" x="790" y="1010" as="geometry" />
@@ -240,6 +246,9 @@
         </mxCell>
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行【导入】和【增删改查】" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="数据来源：所有有效的车辆和订单均可查，功能独立" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
