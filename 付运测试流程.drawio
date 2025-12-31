@@ -370,11 +370,11 @@
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-68" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-67" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IDbLkIF9eMW3lgz0jS4l-66" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆入场模拟过磅" vertex="1">
-          <mxGeometry height="60" width="120" x="1250" y="850" as="geometry" />
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-66" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆入场测试&lt;div&gt;模拟过磅&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="850" as="geometry" />
         </mxCell>
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-67" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="调用2个接口：https://docs.apipost.net/docs/detail/590c238d7c88000?target_id=7d7a3fc347059&lt;div&gt;1、过磅数据&lt;/div&gt;&lt;div&gt;2、更新运单中的过磅资料&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="410" x="1450" y="850" as="geometry" />
+          <mxGeometry height="60" width="410" x="1370" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
