@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="29.2.9">
   <diagram name="第 1 页" id="-6joNGcLp3NoXCjCT5yl">
-    <mxGraphModel dx="980" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eHVDwjv78xXZlASCejH3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="800" y="610" as="geometry" />
+          <mxGeometry height="60" width="120" x="1030" y="950" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-2" edge="1" parent="1" source="eHVDwjv78xXZlASCejH3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZGGLTTGvy-WiqVXzTEE3-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +108,51 @@
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-15" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="装货点设置" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-28" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGGLTTGvy-WiqVXzTEE3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LMBus付运业务部分" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-29" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZGGLTTGvy-WiqVXzTEE3-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="国内物流管理" vertex="1">
+          <mxGeometry height="60" width="120" x="390" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-30" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ZGGLTTGvy-WiqVXzTEE3-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-26" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="付运管理" vertex="1">
+          <mxGeometry height="60" width="120" x="590" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆登记" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-31" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆实时监控管理" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-32" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆定位" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-33" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="付运通知单实时监控" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="付运安排（新）" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-35" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="送货单回单管理" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-36" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="装货管理" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-37" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="抱车任务统计" vertex="1">
+          <mxGeometry height="60" width="120" x="790" y="1410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
