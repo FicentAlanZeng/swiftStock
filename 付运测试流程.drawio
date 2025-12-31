@@ -250,6 +250,30 @@
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="数据来源：所有有效的车辆和订单均可查，功能独立" vertex="1">
           <mxGeometry height="60" width="120" x="990" y="1010" as="geometry" />
         </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-22" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF276B;strokeColor=light-dark(#ff40ff, #ededed);" target="ZGGLTTGvy-WiqVXzTEE3-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-21" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="数据来源：LMBus车辆登记、公众号抱车司机预约登记" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-25" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="数据来源：由D365推数据，推完后，列表展示" vertex="1">
+          <mxGeometry height="60" width="120" x="990" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="测试时需模拟造数据" vertex="1">
+          <mxGeometry height="60" width="120" x="1190" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-27" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF276B;strokeColor=light-dark(#ff40ff, #ededed);exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ZGGLTTGvy-WiqVXzTEE3-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1120" />
+            </Array>
+            <mxPoint x="1020" y="1110" as="sourcePoint" />
+            <mxPoint x="940" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
