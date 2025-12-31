@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="29.2.9">
   <diagram name="第 1 页" id="-6joNGcLp3NoXCjCT5yl">
-    <mxGraphModel dx="1436" dy="2147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,26 +88,50 @@
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="基础设置" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-1" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGGLTTGvy-WiqVXzTEE3-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="服务商信息（新）" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-3" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IDbLkIF9eMW3lgz0jS4l-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-7" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆信息（新）" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-5" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="城镇运输路线关联" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-7" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="运输路线设定" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="300" as="geometry" />
         </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-9" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="运输路线价格" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-11" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="班次设置" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="装货员业务配置" vertex="1">
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-13" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IDbLkIF9eMW3lgz0jS4l-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-13" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="装货员业务配置&amp;amp;分组" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-15" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="IDbLkIF9eMW3lgz0jS4l-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="抱车提成设置" vertex="1">
           <mxGeometry height="60" width="120" x="660" y="650" as="geometry" />
@@ -187,14 +211,35 @@
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-45" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="-300" as="geometry" />
         </mxCell>
-        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-47" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行导入和增删改查" vertex="1">
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-47" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="-220" as="geometry" />
         </mxCell>
-        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-49" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行导入和增删改查" vertex="1">
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-49" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="-130" as="geometry" />
         </mxCell>
-        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-52" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行导入和增删改查" vertex="1">
+        <mxCell id="ZGGLTTGvy-WiqVXzTEE3-52" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
           <mxGeometry height="60" width="120" x="860" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-6" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行【导入】和【增删改查】" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行增删改查" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：自行【导入】和【增删改查】" vertex="1">
+          <mxGeometry height="60" width="120" x="860" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
