@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15" version="29.2.9">
   <diagram name="第 1 页" id="-6joNGcLp3NoXCjCT5yl">
-    <mxGraphModel dx="1221" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2571" dy="2379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry height="60" width="120" x="660" y="-130" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="960" as="geometry" />
+          <mxGeometry height="60" width="120" x="-120" y="970" as="geometry" />
         </mxCell>
         <mxCell id="ZGGLTTGvy-WiqVXzTEE3-28" edge="1" parent="1" source="ZGGLTTGvy-WiqVXzTEE3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ZGGLTTGvy-WiqVXzTEE3-25">
           <mxGeometry relative="1" as="geometry" />
@@ -262,7 +262,7 @@
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-23" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="数据来源：由D365推数据，推完后，列表展示，也可自行创建" vertex="1">
           <mxGeometry height="60" width="120" x="990" y="1090" as="geometry" />
         </mxCell>
-        <mxCell id="IDbLkIF9eMW3lgz0jS4l-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="测试时需模拟造数据：？" vertex="1">
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="测试时需模拟造数据：【1.3.6销售出货通知单接口】" vertex="1">
           <mxGeometry height="60" width="120" x="1190" y="1090" as="geometry" />
         </mxCell>
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-27" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#FF276B;strokeColor=light-dark(#ff40ff, #ededed);exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="ZGGLTTGvy-WiqVXzTEE3-33">
@@ -301,8 +301,8 @@
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-38" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="装货任务完成后，会生成数据到列表" vertex="1">
           <mxGeometry height="60" width="209" x="990" y="1410" as="geometry" />
         </mxCell>
-        <mxCell id="IDbLkIF9eMW3lgz0jS4l-41" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=1;" value="测试时需要模拟调用接口，将实际装货数据推过来将状态变为已完成：？" vertex="1">
-          <mxGeometry height="60" width="120" x="1323.5" y="1410" as="geometry" />
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-41" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=1;" value="测试时需要模拟调用接口，将实际装货数据推过来将状态变为已完成：【1.3.7销售出货送货单接口】" vertex="1">
+          <mxGeometry height="60" width="166.5" x="1323.5" y="1410" as="geometry" />
         </mxCell>
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-51" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-49">
           <mxGeometry relative="1" as="geometry" />
@@ -360,6 +360,21 @@
         </mxCell>
         <mxCell id="IDbLkIF9eMW3lgz0jS4l-63" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="数据同（抱车司机过滤）" vertex="1">
           <mxGeometry x="760" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-64" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试基础的功能部分，常用的增删改查测试" vertex="1">
+          <mxGeometry height="60" width="900" x="70" y="-400" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-65" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="测试业务流程的功能部分，需要结合各种数据类型进行测试，以及流程的顺序" vertex="1">
+          <mxGeometry height="60" width="940" x="170" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-68" edge="1" parent="1" source="IDbLkIF9eMW3lgz0jS4l-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IDbLkIF9eMW3lgz0jS4l-67" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-66" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="车辆入场模拟过磅" vertex="1">
+          <mxGeometry height="60" width="120" x="1250" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="IDbLkIF9eMW3lgz0jS4l-67" parent="1" style="whiteSpace=wrap;html=1;rounded=1;align=left;" value="调用2个接口：https://docs.apipost.net/docs/detail/590c238d7c88000?target_id=7d7a3fc347059&lt;div&gt;1、过磅数据&lt;/div&gt;&lt;div&gt;2、更新运单中的过磅资料&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="410" x="1450" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
